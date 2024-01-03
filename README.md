@@ -52,6 +52,8 @@ After thorough evaluation, the models achieved the following accuracy rates:
 
 Upon reviewing the classification report, the selected model for minimizing errors and consequences was XGBoost. It had a small error in recommending DrugX when it should have recommended DrugC, which seemed to have fewer repercussions.
 
+![xgbclassificationreport](https://drive.google.com/file/d/1gjB4cKO2z4lFsRrlfXKLOqmcxGl4PEnG/view?usp=sharing)
+
 ## Running the Project
 
 To run this project on your own, follow these steps:
